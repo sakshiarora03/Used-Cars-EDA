@@ -1,5 +1,5 @@
 # Used Cars EDA in UAE 🚗📊
-This project performs Exploratory Data Analysis (EDA) on a dataset of 10,000 used cars in the UAE. It includes data cleaning, visualization, statistical analysis, and meaningful insights using Python libraries like Pandas, NumPy, Matplotlib, and Seaborn.
+This project performs Exploratory Data Analysis (EDA) on a dataset of 10,000 used cars in the UAE. It includes data cleaning, visualization, statistical analysis, and meaningful insights using Python libraries like Pandas, NumPy, Matplotlib and Seaborn.
 
 ## 📌 Objectives Covered
 
